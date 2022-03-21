@@ -1,3 +1,4 @@
+//program to print all the even numbers less than 100
 #include<stdio.h>
 int main(){
   int num = 2;
